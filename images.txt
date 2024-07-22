@@ -7,3 +7,5 @@ xhofe/alist:latest
 
 rabbitmq:3.12.6-management
 nacos/nacos-server:v2.2.0-slim
+mysql:8.0.30
+rabbitmq:3.12.0-management
